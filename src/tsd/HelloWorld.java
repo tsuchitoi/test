@@ -12,6 +12,7 @@ public class HelloWorld {
 		System.out.println(0b1000);
 		System.out.println(true);
 		//System.out.println(null);
+		System.out.println("helloworld");
 	}
 
 }
